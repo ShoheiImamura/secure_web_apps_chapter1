@@ -15,7 +15,7 @@ transition : "default"
 | 名前   | 今村昌平                         |
 | 職業   | 受託Web開発 SE（そろそろ３年目） |
 | 特技   | カラオケ、筋トレ                 |
-| 脆弱性 | 梅酒以外のお酒                   |
+| 脆弱性 | お酒（梅酒以外）                 |
 
 --
 
@@ -83,19 +83,19 @@ __悪用できる__ バグ
 
 ### なぜ脆弱性が生まれるのか
 
-![開発フェーズ別の脆弱性の発生要因](/images/開発フェーズ別の脆弱性の発生要因.png)
+![開発フェーズ別の脆弱性の発生要因](/images/cause_of_vulnerabirity.png)
 
 --
 
 ### 本書の構成
 
-![本書の構成](/images/本書の構成.png)
+![本書の構成](/images/composition.png)
 
 ---
 
 ### セキュリティガイドライン
 
-<img src="./images/安全なウェブサイトの作り方.png" style="width:40%;"/>
+<img src="./images/web_security.png" style="width:40%;"/>
 <img src="./images/OWASP_Top_10.png" style="width:40%;"/>
 
 --
