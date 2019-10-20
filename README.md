@@ -23,6 +23,8 @@ transition : "default"
 
 - Weeyble 勉強会のための資料です
 - 権利関係で問題がありましたら、ご連絡ください
+- reveal.js で作成しています
+- スライドは[こちら](https://shoheiimamura.github.io/secure_web_apps_chapter1/#/)からアクセスできます。
 
 ---
 
