@@ -83,13 +83,13 @@ __悪用できる__ バグ
 
 ### なぜ脆弱性が生まれるのか
 
-![開発フェーズ別の脆弱性の発生要因](./images/cause_of_vulnerabirity.png)
+<img src="./images/cause_of_vulnerabirity.png" style="width:100%;"/>
 
 --
 
 ### 本書の構成
 
-![本書の構成](./images/composition.png)
+<img src="./images/composition.png" style="width:100%;"/>
 
 ---
 
